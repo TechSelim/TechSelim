@@ -1,6 +1,5 @@
 ### Hi there 👋, My name is Selim Ahmad
 #### I am a Full-Stack web developer
-![I am a Full-Stack web developer]
 
 Hi, I am a MERN Stack developer. I have 5 years of experience in this field. I am an expert in Node JS, Express JS, React JS, Redux, MongoDB, Vue JS, javascript, jquery, ajax, PHP, bootstrap, MySQL, Laravel, Codeigniter, , HTML, CSS, and photoshop. Now I am a full-time freelancer and any time open to work.
 
