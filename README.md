@@ -1,12 +1,10 @@
 ### Hi there 👋, My name is Selim Ahmad
 #### I am a Full-Stack web developer
-![I am a Full-Stack web developer](https://media.licdn.com/dms/image/C5616AQGDxHb0AtlSmw/profile-displaybackgroundimage-shrink_350_1400/0/1667992505574?e=1686787200&v=beta&t=AiC99rtaoveRxFMsWWZopVW6IT-cbN-1d2EOBOwdHQY)
+![I am a Full-Stack web developer]
 
-I am a Sr. software engineer and team lead at TechICS. I have 5+ years of experience in software development. Before joining TechICS I worked on champs21 as a software programmer. I started my journey as a part-time web developer at itBin Solutions. After that, I joined BTS Software Technologies Limited as a full-time Web Developer in 2017. In September 2018, I joined Champs21 and finaly in September 2019, I joined TechICS as a Sr. software engineer. I completed my BSc in computer science and engineering from Metropolitan University Bangladesh in December 2016. 
+Hi, I am a MERN Stack developer. I have 5 years of experience in this field. I am an expert in Node JS, Express JS, React JS, Redux, MongoDB, Vue JS, javascript, jquery, ajax, PHP, bootstrap, MySQL, Laravel, Codeigniter, , HTML, CSS, and photoshop. Now I am a full-time freelancer and any time open to work.
 
 Skills: REACT / JS / HTML / CSS
-
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TechSelim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/selim-cse/)  
 
